@@ -26,9 +26,4 @@ The analysis utilizes an Excel database (`6.1. Total_World_Production.xlsx`) con
 2. **Growth Rate Aggregations:** Comparative percentage growth analysis from baseline (1984) to present day.
 3. **Stability Heatmaps:** Pivot-table generated heatmaps displaying production risks over time.
 
-##  Getting Started
 
-### Prerequisites
-Ensure you have Python installed along with the following packages:
-```bash
-pip install numpy pandas matplotlib seaborn openpyxl
